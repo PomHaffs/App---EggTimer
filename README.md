@@ -4,4 +4,5 @@
 #Decription:
 Simple egg timer app for lovely perfect eggs
 
-#Things 
+#Things I Have Covered:
+- Timer()
